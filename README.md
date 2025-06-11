@@ -35,5 +35,5 @@ A full-stack clone of the Airbnb platform built using vanilla HTML, CSS, and Jav
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/airbnb-clone.git
+git clone https://github.com/ManishaGodara-gif/Majorproject
 cd airbnb-clone
